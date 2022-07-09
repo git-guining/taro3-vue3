@@ -1,0 +1,16 @@
+body, view, progress, button, form, input, label, text, switch, textarea, audio, image, video, 
+checkbox, picker, swiper, icon, slider, navigator, 
+live-player, live-pusher, open-data, web-view, scroll-view, movable-area, cover-view, rich-text, checkbox-group, picker-view, radio-group {
+  box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+page {
+	font-display: swap;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+	Helvetica, Segoe UI, Arial, Roboto, "PingFang SC", "miui",
+	"Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  scroll-behavior: smooth;
+	color: $textColor1;
+}
